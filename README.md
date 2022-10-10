@@ -1,5 +1,5 @@
 # Детекция и распознавание авттомобильных номеров
-    ```
+
     .
     ├── experiments
     |   ├── opencv_easyocr
@@ -9,4 +9,3 @@
     |       └── main.ipynb
     ├── .gitignore
     └── README.md
-    ```
